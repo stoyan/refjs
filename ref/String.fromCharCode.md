@@ -1,0 +1,6 @@
+<!-- head -->
+== String.fromCharCode
+
+
+
+<!-- foot -->

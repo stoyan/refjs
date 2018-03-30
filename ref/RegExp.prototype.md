@@ -1,0 +1,6 @@
+<!-- head -->
+== RegExp.prototype
+
+
+
+<!-- foot -->

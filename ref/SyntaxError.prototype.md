@@ -1,0 +1,6 @@
+<!-- head -->
+== SyntaxError.prototype
+
+
+
+<!-- foot -->

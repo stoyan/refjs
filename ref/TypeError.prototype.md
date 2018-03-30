@@ -1,0 +1,6 @@
+<!-- head -->
+== TypeError.prototype
+
+
+
+<!-- foot -->

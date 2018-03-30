@@ -1,0 +1,6 @@
+<!-- head -->
+== ReferenceError.prototype
+
+
+
+<!-- foot -->

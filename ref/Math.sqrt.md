@@ -1,0 +1,6 @@
+<!-- head -->
+== Math.sqrt
+
+
+
+<!-- foot -->

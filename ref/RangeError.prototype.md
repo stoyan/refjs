@@ -1,0 +1,6 @@
+<!-- head -->
+== RangeError.prototype
+
+
+
+<!-- foot -->

@@ -1,0 +1,6 @@
+<!-- head -->
+== Math.random
+
+
+
+<!-- foot -->

@@ -1,0 +1,6 @@
+<!-- head -->
+== URIError.prototype
+
+
+
+<!-- foot -->

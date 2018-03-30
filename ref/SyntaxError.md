@@ -1,0 +1,6 @@
+<!-- head -->
+== SyntaxError
+
+
+
+<!-- foot -->

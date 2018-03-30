@@ -31,7 +31,7 @@ const es3 = {
   'Function.prototype': [
     'apply',
     'call',
-    'length'
+    'length',
   ],
   'Boolean': [
   ],
@@ -194,3 +194,5 @@ const es3 = {
     'message',
   ],
 };
+
+module.exports = es3;

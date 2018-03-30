@@ -1,0 +1,6 @@
+<!-- head -->
+== Boolean.prototype
+
+
+
+<!-- foot -->

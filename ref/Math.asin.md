@@ -1,0 +1,6 @@
+<!-- head -->
+== Math.asin
+
+
+
+<!-- foot -->

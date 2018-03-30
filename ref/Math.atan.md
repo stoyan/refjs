@@ -1,0 +1,6 @@
+<!-- head -->
+== Math.atan
+
+
+
+<!-- foot -->
