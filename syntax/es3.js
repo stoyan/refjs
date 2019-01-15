@@ -1,4 +1,4 @@
-const es3 = {
+module.exports = {
   'Object': [
     'prototype',
   ],
@@ -195,4 +195,3 @@ const es3 = {
   ],
 };
 
-module.exports = es3;
